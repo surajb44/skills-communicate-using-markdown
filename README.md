@@ -12,5 +12,28 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Markdown Features
 
+### Image Example
+![GitHub Octocat](https://octodex.github.com/images/original.png)
+
+### Code Example
+
+```javascript
+function helloMarkdown() {
+  console.log("Hello, Markdown!");
+  return "This is a code block example";
+}
+```
+
+### Task List
+
+- [x] Add a header
+- [x] Add an image
+- [x] Add a code example
+- [x] Create a task list
+- [ ] Merge the pull request
+
+---
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
